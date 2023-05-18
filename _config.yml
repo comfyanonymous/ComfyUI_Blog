@@ -22,7 +22,7 @@ title: ComfyUI blog
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog for ComfyUI related news.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ComfyUI_Blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  comfyanonymous
 
