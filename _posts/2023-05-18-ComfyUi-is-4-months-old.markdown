@@ -34,7 +34,7 @@ I often see some questions about what ComfyUI has over most other UIs:
 
 There is still a lot to do especially when it comes to overall user experience and documentation but I think that the future is Comfy.
 
-
+My vision for the future is to keep ComfyUI updated with all the cool new things that come out, improve performance and make the software better. I and others in the ComfyUI community also have a few ideas of our own for some things that could improve Stable Diffusion for everyone so stay tuned.
 
 ## Third Party Resources
 
