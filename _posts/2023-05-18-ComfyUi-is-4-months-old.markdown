@@ -9,6 +9,8 @@ The original goal of [ComfyUI](https://github.com/comfyanonymous/ComfyUI) was to
 
 The reason I started writing ComfyUI is that I got a bit too addicted to generating images with Stable Diffusion. The other tools available started lacking the flexibility and power that I desired. I also wanted to learn the core functions of Stable Diffusion and how it works. I wanted to do better than everyone else especially in terms of software design. ComfyUI is far from perfect, but I feel it has matured over the months and is more stable and bug free than others.
 
+![ComfyUI screenshot]({{site.baseurl}}/assets/comfyui.png)
+
 In only 4 months, thanks to everyone who has contributed, ComfyUI grew into an amazing piece of software that in many ways surpasses other stable diffusion graphical interfaces: in flexibility, base features, overall stability, and power it gives users to control the diffusion pipeline.
 
 It is also by far the easiest stable interface to install. If you have a nvidia card on windows all you have to do is download the [portable build on this page and read the very short instructions.](https://github.com/comfyanonymous/ComfyUI#installing)
