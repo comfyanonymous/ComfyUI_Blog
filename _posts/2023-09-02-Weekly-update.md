@@ -12,7 +12,7 @@ Along with the regular bug fixes what's new is:
 
 ### Faster VAE on Nvidia 3000 series and up
 
-The VAE is now run in bfloat16 by default on Nvidia 3000 series and up. This should reduce memory and improve speed for the VAE on these cards. People using other GPUs that don't natively support bfloat16 can run ComfyUI with --fp16-vae to get a similar speedup by running the VAE in float16 however this isn't the default because it can cause black images due to the values in the VAE overflowing (bfloat16 doesn't have that issue) which is why the default for other cards is full precision float32.
+The VAE is now run in bfloat16 by default on Nvidia 3000 series and up. This should reduce memory and improve speed for the VAE on these cards. People using other GPUs that don't natively support bfloat16 can run ComfyUI with `--fp16-vae` to get a similar speedup by running the VAE in float16 however this isn't the default because it can cause black images due to the values in the VAE overflowing (bfloat16 doesn't have that issue) which is why the default for other cards is full precision float32.
 
 ### Speed increases
 
