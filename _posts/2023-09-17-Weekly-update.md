@@ -6,7 +6,7 @@ categories: comfyui update
 
 Here's what's new recently in [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
 
-[Here's the link to the previous update in case you missed it.](/ComfyUI_Blog/comfyui/update/2023/09/10/Weekly-update.html)
+[Here's the link to the previous update in case you missed it.]({{site.baseurl}}/comfyui/update/2023/09/10/Weekly-update.html)
 
 Not many new features this week but I'm working on a few things that are not yet ready for release.
 
