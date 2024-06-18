@@ -28,11 +28,11 @@ For those that missed them these are the major updates in ComfyUI in the last fe
 ### SD3 support
 
 You can find basic examples on the page here:
-https://comfyanonymous.github.io/ComfyUI_examples/sd3/
+[https://comfyanonymous.github.io/ComfyUI_examples/sd3/](https://comfyanonymous.github.io/ComfyUI_examples/sd3/)
 
 ### Stable Audio Support
 
-I have not put an example for this one on an example page yet because there's still a few things left to do but it should work and if you want to give it a try you can find a workflow on: https://gist.github.com/comfyanonymous/0e04181f7fd01301230adc106b691cc2
+I have not put an example for this one on an example page yet because there's still a few things left to do but it should work and if you want to give it a try you can find a workflow on: [https://gist.github.com/comfyanonymous/0e04181f7fd01301230adc106b691cc2](https://gist.github.com/comfyanonymous/0e04181f7fd01301230adc106b691cc2)
 
 ### TensorRT support
 
