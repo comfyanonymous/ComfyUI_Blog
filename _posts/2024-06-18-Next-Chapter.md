@@ -20,6 +20,7 @@ I believe that true open source is the best way forward and hope to make ComfyUI
 
 Thank you, everyone, for supporting Comfy, for contributing, for writing custom nodes and for being part of the Comfy ecosystem. The future is truly Comfy.
 
+Be sure to check the Comfy Org blog for more updates: [https://blog.comfy.org/](https://blog.comfy.org/)
 
 # What's new in ComfyUI
 
